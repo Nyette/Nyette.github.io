@@ -1,0 +1,21 @@
+{
+	"name": "Nyette.github.io",
+	"version": "1.0.0",
+	"description": "Antoinette Lee's Portfolio",
+	"scripts": {
+		"start": "http-server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Nyette/Nyette.github.io.git"
+	},
+	"author": "Antoinette Lee",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Nyette/Nyette.github.io/issues"
+	},
+	"homepage": "https://github.com/Nyette/Nyette.github.io#readme",
+	"devDependencies": {
+		"http-server": "^0.12.3"
+	}
+}
