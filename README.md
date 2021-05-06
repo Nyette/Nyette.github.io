@@ -1,7 +1,5 @@
-# Nyette.github.io
-
-[Portfolio](https://nyette.github.io/)
-
-## Made With
+# Made With
 
 [Bootstrap](https://getbootstrap.com/)
+
+[Font Awesome](https://fontawesome.com/)
